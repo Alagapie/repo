@@ -1,0 +1,21 @@
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/nurmandev/ai-recruiter
+   ```
+
+
+    
+
+2. **Install Dependencies**:
+
+   ```bash
+   cd ai-recruiter
+   docker compose build
+   ```
+
+3. **Run the System**:
+
+   ```bash
+   docker compose up
+   ```
